@@ -1,0 +1,345 @@
+Enter 1 for custom  or 2 for random variables 
+1
+Enter integer between 2 and 8(inclusive) for player count
+7
+playerCount 7
+Enter integer for the money player receives each round
+100
+turnMoney == 100
+Enter integer for the player's initial money
+150
+starterCash == 150
+Enter integer between 0-100(inclusive)
+If you enter '60' for property buying probability, it means player will buy the property it landed with 0.6 probability.
+Property buying probability: 
+40
+Property buying probability: 40
+Railroad buying probability: 
+40
+Railroad buying probability: 40
+Utility buying probability: 
+40
+Utility buying probability: 40
+Creating deck
+Decks are created
+Creating players
+Player1 is created
+Player1 has 150$
+Player2 is created
+Player2 has 150$
+Player3 is created
+Player3 has 150$
+Player4 is created
+Player4 has 150$
+Player5 is created
+Player5 has 150$
+Player6 is created
+Player6 has 150$
+Player7 is created
+Player7 has 150$
+Total of 7 players are created
+Creating board
+Board is created
+Deciding move order
+Player1 rolls 1 + 6 = 7
+Player2 rolls 2 + 2 = 4
+ROLLED DOUBLE  doubleCounter == 1
+Player3 rolls 1 + 4 = 5
+Player4 rolls 4 + 2 = 6
+Player5 rolls 6 + 1 = 7
+Player6 rolls 2 + 4 = 6
+Player7 rolls 3 + 2 = 5
+----------------------
+Player1 goes first
+Starting game...
+   ---      
+Game is on!!! turn == 1
+----------
+Player1 On Go
+Player1 rolls 4 + 2 = 6
+Player1 on Oriental Avenue
+Player1decided not to buy Oriental Avenue
+Player1 HAS $150
+Player5 On Go
+Player5 rolls 1 + 3 = 4
+Player5 on Income Tax paid $600 has $-450
+Player5 BANKRUPTED!
+Player5 HAS $-450
+Player6 On Go
+Player6 rolls 1 + 2 = 3
+Player6 on Baltic Avenue
+Player6decided not to buy Baltic Avenue
+Player6 HAS $150
+Player3 On Go
+Player3 rolls 2 + 2 = 4
+ROLLED DOUBLE  doubleCounter == 1
+Player3 on Income Tax paid $600 has $-450
+Player3 rolls 3 + 5 = 8
+Player3 on Electric Company
+Player3does not have enough cash to buy utilityElectric Company
+Player3 BANKRUPTED!
+Player3 HAS $-450
+Player2 On Go
+Player2 rolls 1 + 4 = 5
+on railroad
+Player2 on Reading Railroad
+Player2does not have enough cash to buy railroadReading Railroad
+Player2 rolls 3 + 5 = 8
+Player2 on States Avenue
+Player2decided not to buy States Avenue
+Player2 HAS $150
+   ---      
+Game is on!!! turn == 2
+----------
+Player1 rolls 1 + 6 = 7
+Player1 on States Avenue
+Player1decided not to buy States Avenue
+Player1 HAS $150
+Player4 On Go
+Player4 rolls 3 + 3 = 6
+ROLLED DOUBLE  doubleCounter == 1
+Player4 on Oriental Avenue
+Player4decided not to buy Oriental Avenue
+Player4 rolls 6 + 4 = 10
+Player4 on St. James Place
+Player4does not have enough cash to buy propertySt. James Place
+Player4 rolls 5 + 4 = 9
+on railroad
+Player4 on B. & O. Railroad
+Player4does not have enough cash to buy railroadB. & O. Railroad
+Player4 HAS $150
+Player6 rolls 3 + 4 = 7
+Player6 is just visiting jail.
+Player6 HAS $150
+Player7 On Go
+Player7 rolls 2 + 6 = 8
+Player7 on Vermont Avenue
+Player7decided not to buy Vermont Avenue
+Player7 rolls 2 + 3 = 5
+Player7 on States Avenue
+Player7decided not to buy States Avenue
+Player7 HAS $150
+Player2 rolls 4 + 3 = 7
+Player2 On FreeParkingLot
+Player2 HAS $150
+   ---      
+Game is on!!! turn == 3
+----------
+Player1 rolls 5 + 6 = 11
+Player1 on Illinois Avenue
+Player1does not have enough cash to buy propertyIllinois Avenue
+Player1 HAS $150
+Player4 rolls 3 + 1 = 4
+Player4 on Marvin Gardens
+Player4does not have enough cash to buy propertyMarvin Gardens
+Player4 HAS $150
+Player6 rolls 6 + 2 = 8
+Player6 on Tennessee Avenue
+Player6does not have enough cash to buy propertyTennessee Avenue
+Player6 HAS $150
+Player7 rolls 2 + 6 = 8
+Player7 on Kentucky Avenue
+Player7does not have enough cash to buy propertyKentucky Avenue
+Player7 HAS $150
+Player2 rolls 2 + 4 = 6
+Player2 on Atlantic Avenue
+Player2does not have enough cash to buy propertyAtlantic Avenue
+Player2 HAS $150
+   ---      
+Game is on!!! turn == 4
+----------
+Player1 rolls 5 + 5 = 10
+ROLLED DOUBLE  doubleCounter == 1
+Player1 on Pennsylvania Avenue
+Player1does not have enough cash to buy propertyPennsylvania Avenue
+Player1 rolls 4 + 2 = 6
+Player1 finished one tour and received $250 and has 250
+Player1 On Go
+Player1 HAS $250
+Player4 rolls 2 + 2 = 4
+ROLLED DOUBLE  doubleCounter == 1
+Player4 on Community Chest
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 9
+NO EFFECT --> Get Out of Jail Free.
+Player4 rolls 6 + 5 = 11
+Player4 finished one tour and received $250 and has 250
+Player4 on Income Tax paid $600 has $-350
+Player4 BANKRUPTED!
+Player4 HAS $-350
+Player7 rolls 4 + 2 = 6
+Player7 on Ventnor Avenue
+Player7does not have enough cash to buy propertyVentnor Avenue
+Player7 HAS $150
+Player2 rolls 5 + 5 = 10
+ROLLED DOUBLE  doubleCounter == 1
+Player2 On Chance
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 4
+NO EFFECT --> Advance token to the nearest Railroad and pay owner twice the rental. 
+If Railroad is unowned, you may buy it from the Bank.
+Player2 rolls 4 + 4 = 8
+ROLLED DOUBLE  doubleCounter == 2
+Player2 finished one tour and received $250 and has 250
+Player2 on Income Tax paid $600 has $-350
+Player2 rolls 6 + 6 = 12
+ROLLED DOUBLE THREETIMES IN ROW GOIN TO JAIL
+Player2 in jail!
+Player2 BANKRUPTED!
+Player2 HAS $-350
+   ---      
+Game is on!!! turn == 5
+----------
+Player1 rolls 2 + 5 = 7
+Player1 On Chance
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 14
+NO EFFECT --> Your building and loan matures. Collect $150.
+Player1 HAS $250
+Player6 rolls 2 + 5 = 7
+on railroad
+Player6 on B. & O. Railroad
+Player6does not have enough cash to buy railroadB. & O. Railroad
+Player6 rolls 3 + 5 = 8
+Player6 on Community Chest
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 10
+NO EFFECT --> From sale of stock you get $50.
+Player6 HAS $150
+Player7 rolls 1 + 3 = 4
+Player7 on Pacific Avenue
+Player7does not have enough cash to buy propertyPacific Avenue
+Player7 HAS $150
+   ---      
+Game is on!!! turn == 6
+----------
+Player1 rolls 3 + 5 = 8
+on railroad
+Player1 on Pennsylvania Railroad
+Player1decided not to buy Pennsylvania Railroad
+Player1 HAS $250
+Player6 rolls 6 + 4 = 10
+Player6 finished one tour and received $250 and has 250
+Player6 on Baltic Avenue
+Player6decided not to buy Baltic Avenue
+Player6 HAS $250
+Player7 rolls 3 + 2 = 5
+Player7 On Chance
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 4
+NO EFFECT --> Advance token to the nearest Railroad and pay owner twice the rental. 
+If Railroad is unowned, you may buy it from the Bank.
+Player7 HAS $150
+   ---      
+Game is on!!! turn == 7
+----------
+Player1 rolls 6 + 3 = 9
+Player1 on Illinois Avenue
+Player1decided not to buy Illinois Avenue
+Player1 HAS $250
+Player6 rolls 5 + 1 = 6
+Player6 on Connecticut Avenue
+Player6decided not to buy Connecticut Avenue
+Player6 HAS $250
+Player7 rolls 5 + 2 = 7
+Player7 finished one tour and received $250 and has 250
+Player7 on Baltic Avenue
+Player7decided not to buy Baltic Avenue
+Player7 HAS $250
+   ---      
+Game is on!!! turn == 8
+----------
+Player1 rolls 4 + 4 = 8
+ROLLED DOUBLE  doubleCounter == 1
+Player1 on North Carolina Avenue
+Player1does not have enough cash to buy propertyNorth Carolina Avenue
+Player1 rolls 3 + 2 = 5
+Player1 on Park Place
+Player1does not have enough cash to buy propertyPark Place
+Player1 HAS $250
+Player6 rolls 6 + 1 = 7
+Player6 on St. James Place
+Player6decided not to buy St. James Place
+Player6 HAS $250
+Player7 rolls 4 + 1 = 5
+Player7 on Vermont Avenue
+Player7decided not to buy Vermont Avenue
+Player7 HAS $250
+   ---      
+Game is on!!! turn == 9
+----------
+Player1 rolls 3 + 6 = 9
+Player1 finished one tour and received $350 and has 350
+Player1 on Oriental Avenue
+Player1decided not to buy Oriental Avenue
+Player1 HAS $350
+Player6 rolls 4 + 5 = 9
+on railroad
+Player6 on B. & O. Railroad
+Player6decided not to buy B. & O. Railroad
+Player6 HAS $250
+Player7 rolls 2 + 5 = 7
+on railroad
+Player7 on Pennsylvania Railroad
+Player7decided not to buy Pennsylvania Railroad
+Player7 HAS $250
+   ---      
+Game is on!!! turn == 10
+----------
+Player1 rolls 4 + 3 = 7
+Player1 on States Avenue
+Player1decided not to buy States Avenue
+Player1 HAS $350
+Player6 rolls 1 + 6 = 7
+Player6 on North Carolina Avenue
+Player6does not have enough cash to buy propertyNorth Carolina Avenue
+Player6 HAS $250
+Player7 rolls 1 + 3 = 4
+Player7 on New York Avenue
+Player7decided not to buy New York Avenue
+Player7 HAS $250
+   ---      
+Game is on!!! turn == 11
+----------
+Player1 rolls 3 + 5 = 8
+Player1 on Kentucky Avenue
+Player1decided not to buy Kentucky Avenue
+Player1 HAS $350
+Player6 rolls 2 + 4 = 6
+Player6 on Luxury Tax paid $300 has $-50
+Player6 BANKRUPTED!
+Player6 HAS $-50
+   ---      
+Game is on!!! turn == 12
+----------
+Player1 rolls 5 + 2 = 7
+Player1 on Water Works
+Player1decided not to buy Water Works
+Player1 HAS $350
+Player7 rolls 6 + 3 = 9
+Player7 on Water Works
+Player7decided not to buy Water Works
+Player7 rolls 3 + 4 = 7
+on railroad
+Player7 on Short Line
+Player7decided not to buy Short Line
+Player7 HAS $250
+   ---      
+Game is on!!! turn == 13
+----------
+Player1 rolls 2 + 3 = 5
+Player1 on Community Chest
+ OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 14
+NO EFFECT --> Grand Opera Night. Collect $50 from every player for opening night seats.
+Player1 HAS $350
+Player7 rolls 2 + 4 = 6
+Player7 finished one tour and received $350 and has 350
+Player7 on Mediterranean Avenue
+Player7decided not to buy Mediterranean Avenue
+Player7 HAS $350
+   ---      
+Game is on!!! turn == 14
+----------
+Player1 rolls 3 + 2 = 5
+Player1 on Luxury Tax paid $300 has $50
+Player1 HAS $50
+Player7 rolls 2 + 1 = 3
+Player7 on Income Tax paid $600 has $-250
+Player7 BANKRUPTED!
+Player7 HAS $-250
+Player1 WON!
